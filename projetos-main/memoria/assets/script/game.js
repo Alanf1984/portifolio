@@ -13,7 +13,9 @@ let game = {
         'bidu',
         'anjinho',
         'sanssao',
-        'franguinha'],
+        'franguinha',
+        'magali'
+    ],
 
     cards: null,
 
